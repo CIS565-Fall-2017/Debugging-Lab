@@ -3,11 +3,9 @@
 This is the first in series of 2 labs for CUDA. In this lab, we will discuss
 how NVIDIA's Nsight for Visual Studio can aid in debugging CUDA programs.
 
-**
-The debugging lab will be held in class.
-Please bring your Windows CUDA-Capable laptop with the code downloaded and built.
-If you do not have a Windows CUDA-Capable laptop, please find a partner to work with.
-**
+**The debugging lab will be held in class.**
+**Please bring your Windows CUDA-Capable laptop with the code downloaded and built.**
+**If you do not have a Windows CUDA-Capable laptop, please find a partner to work with.**
 
 ## Clone, Build and Run
 The source code consists of a CMake build structure similar to [Project 0](https://github.com/CIS565-Fall-2017/Project0-CUDA-Getting-Started).
