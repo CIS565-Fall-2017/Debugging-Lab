@@ -37,6 +37,7 @@ IF(WIN32)
 ENDIF(WIN32)
 
 LIST(APPEND CUDA_NVCC_FLAGS ${CUDA_GENERATE_CODE})
+LIST(APPEND CUDA_NVCC_FLAGS_DEBUG "-g -G")
 
 ########################################
 
